@@ -16,6 +16,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "millooo94/etna-faker": "^1.0"
+
         }
 }
