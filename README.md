@@ -49,7 +49,7 @@ $address = $faker->address();
 // Generate a realistic Catania email
 $email = $faker->email();
 ```
-Refer to the [documentation](https://github.com/millooo94/etna-faker#etnafaker-package) for more details on available methods and customization options.
+Refer to the [**documentation**](https://github.com/millooo94/etna-faker#etnafaker-package) for more details on available methods and customization options.
 
 
 
