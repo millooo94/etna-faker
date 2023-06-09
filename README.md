@@ -13,9 +13,9 @@ The library follows the principles and conventions of the PHP community, ensurin
 
 - **Last Names**: Generate realistic last names specific to the Catania province.
 
-- **Addresses**: Create realistic Catania addresses with random street names and house numbers.
+- **Addresses**: Generate realistic Catania addresses with random street names and house numbers.
 
-- **Cities**: Create realistic Catania cities specific to the Catania province.
+- **Cities**: Generate realistic Catania cities specific to the Catania province.
 
 - **Emails**: Generate realistic emails containing first and last names specific to the Catania province.
 
