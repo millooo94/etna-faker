@@ -1,4 +1,4 @@
-![EtnaFaker](docs/Etna.webp?raw=true)
+![EtnaFaker](docs/EtnaFaker.png?raw=true)
 # EtnaFaker: Fake Data Generator for Catania
 
 [![Latest Version](https://img.shields.io/github/release/millooo94/etna-faker.svg?style=flat-square)](https://github.com/millooo94/etna-faker/releases) [![Issues](https://img.shields.io/github/issues/millooo94/etna-faker.svg?style=flat-square)](https://github.com/millooo94/etna-faker/issues) [![Stars](https://img.shields.io/github/stars/millooo94/etna-faker.svg?style=flat-square)](https://github.com/millooo94/etna-faker/stargazers)
