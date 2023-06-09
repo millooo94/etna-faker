@@ -6,3 +6,15 @@
 Etna Faker is a PHP library designed to generate realistic fake data specific to the Catania region in Italy. It provides developers with a convenient way to generate fake Catania-related data for various purposes such as testing, prototyping, or populating databases with sample data.
 
 The library follows the principles and conventions of the PHP community, ensuring compatibility with existing PHP projects and frameworks. Etna Faker leverages the power of Faker, a widely-used PHP library for generating fake data, and extends it with Catania-specific data generation capabilities.
+
+## Features
+- **Fake Catania First Names**: Generate realistic first names specific to the Catania province.
+
+- **Fake Catania Last Names**: Generate realistic last names specific to the Catania province.
+
+- **Catania Addresses**: Create realistic Catania addresses with random street names and house numbers.
+
+- **Catania Cities**: Create realistic Catania cities specific to the Catania province.
+
+- **Catania Emails**: Generate realistic emails containing first and last names specific to the Catania province.
+
