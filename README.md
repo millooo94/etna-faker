@@ -50,6 +50,10 @@ $address = $faker->address();
 $email = $faker->email();
 ```
 Refer to the [**documentation**](https://github.com/millooo94/etna-faker#etnafaker-package) for more details on available methods and customization options.
+## Contributing
+Contributions to Etna Faker are welcome! If you find a bug, have a feature request, or want to contribute improvements or new data generation capabilities, please open an issue on the [**GitHub repository**](https://github.com/millooo94/etna-faker) or submit a pull request.
+
+Please ensure that your contributions align with the coding style and guidelines of the project. Also, provide appropriate tests and documentation for your changes.
 
 
 
