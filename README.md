@@ -1,3 +1,4 @@
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcatania.gds.it%2Farticoli%2Fcronaca%2F2017%2F04%2F14%2Fletna-e-il-vulcano-che-cresce-piu-velocemente-da-uno-a-cinque-crateri-in-100-anni-3b3c77c4-d435-47ad-82fb-f8c4bd6d7aa5%2F&psig=AOvVaw3ImyD6UYWQ3hIBdXm5v8HU&ust=1686395243473000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC_zv2Ftv8CFQAAAAAdAAAAABAE)
 # EtnaFaker: Fake Data Generator for Catania
 
 [![Latest Version](https://img.shields.io/github/release/millooo94/etna-faker.svg?style=flat-square)](https://github.com/millooo94/etna-faker/releases) [![Issues](https://img.shields.io/github/issues/millooo94/etna-faker.svg?style=flat-square)](https://github.com/millooo94/etna-faker/issues) [![Stars](https://img.shields.io/github/stars/millooo94/etna-faker.svg?style=flat-square)](https://github.com/millooo94/etna-faker/stargazers)
