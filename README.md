@@ -23,5 +23,17 @@ You can install Etna Faker using Composer, the dependency management tool for PH
 ```php
 composer require millooo94/etna-faker
 ```
+## Usage
+To start using Etna Faker, include the library in your PHP script using the autoload functionality provided by Composer:
+```php
+use Millooo94\EtnaFaker\Faker\EtnaFaker;
+```
+After including the library, you can create an instance of the EtnaFaker\Factory class to access the various data generation methods:
+```php
+$faker = new EtnaFaker();
+```
+
+
+
 
 
