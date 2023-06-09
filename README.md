@@ -54,6 +54,8 @@ Refer to the [**documentation**](https://github.com/millooo94/etna-faker#etnafak
 Contributions to Etna Faker are welcome! If you find a bug, have a feature request, or want to contribute improvements or new data generation capabilities, please open an issue on the [**GitHub repository**](https://github.com/millooo94/etna-faker) or submit a pull request.
 
 Please ensure that your contributions align with the coding style and guidelines of the project. Also, provide appropriate tests and documentation for your changes.
+## License
+Etna Faker is open-source software licensed under the MIT License. See the [**LICENSE**](https://github.com/millooo94/etna-faker/blob/main/LICENSE) file for more information.
 
 
 
