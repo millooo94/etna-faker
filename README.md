@@ -18,3 +18,10 @@ The library follows the principles and conventions of the PHP community, ensurin
 
 - **Emails**: Generate realistic emails containing first and last names specific to the Catania province.
 
+## Installation
+You can install Etna Faker using Composer, the dependency management tool for PHP:
+```php
+composer require millooo94/etna-faker
+```
+
+
