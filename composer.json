@@ -14,10 +14,6 @@
             "email": "camillomusmeciunict@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-
-    "require": {
-        "millooo94/etna-faker": "1.0.0"
-    }
+    "minimum-stability": "dev"
 }
 
