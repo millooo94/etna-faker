@@ -1,0 +1,19 @@
+{
+    "name": "millooo94/etna-faker",
+    "description": "Etna Faker is a PHP library that generates fake Catania data for you.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Millooo94\\EtnaFaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "millooo94",
+            "email": "camillomusmeciunict@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
