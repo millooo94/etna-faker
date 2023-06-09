@@ -1,4 +1,4 @@
-![EtnaFaker](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.italia.it%2Fit%2Fsicilia%2Fcatania%2Fcosa-fare%2Fmonte-etna&psig=AOvVaw3ImyD6UYWQ3hIBdXm5v8HU&ust=1686395243473000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC_zv2Ftv8CFQAAAAAdAAAAABAJ)
+![EtnaFaker](docs/Etna.webp?raw=true)
 # EtnaFaker: Fake Data Generator for Catania
 
 [![Latest Version](https://img.shields.io/github/release/millooo94/etna-faker.svg?style=flat-square)](https://github.com/millooo94/etna-faker/releases) [![Issues](https://img.shields.io/github/issues/millooo94/etna-faker.svg?style=flat-square)](https://github.com/millooo94/etna-faker/issues) [![Stars](https://img.shields.io/github/stars/millooo94/etna-faker.svg?style=flat-square)](https://github.com/millooo94/etna-faker/stargazers)
