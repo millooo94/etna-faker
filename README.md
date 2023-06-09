@@ -32,6 +32,28 @@ After including the library, you can create an instance of the EtnaFaker\Factory
 ```php
 $faker = new EtnaFaker();
 ```
+You can then use the $faker object to generate Catania-specific fake data:
+```php
+// Generate a fake Catania first name
+$firstName = $faker->firstName();
+
+// Generate a fake Catania last name
+$lastName = $faker->lastName();
+
+// Generate a fake Catania city
+$city = $faker->city();
+
+// Generate a fake Catania address
+$address = $faker->address();
+
+// Generate a fake Catania email
+$email = $faker->email();
+```
+Refer to the [documentation]('https://github.com/millooo94/etna-faker#etnafaker-package') for more details on available methods and customization options.
+
+
+
+
 
 
 
